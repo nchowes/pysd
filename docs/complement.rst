@@ -3,7 +3,7 @@ Complementary Projects
 
 The most valuable component for better integrating models with *basically anything else* is a standard language for communicating the structure of those models. That language is `XMILE <http://www.iseesystems.com/community/support/XMILE.aspx>`_. The draft specifications for this have been finalized and the standard should be approved in the next few months.
 
-A Python library for analyzing system dynamics models called the `Exploratory Modeling and Analysis (EMA) Workbench <http://simulation.tbm.tudelft.nl/ema-workbench/contents.html>`_ developed by Erik Pruyt and Jan Kwakkel at TU Delft. This package implements a variety of analysis methods that are unique to dynamic models, and could work very tightly with PySD.
+A Python library for analyzing system dynamics models called the `Exploratory Modeling and Analysis (EMA) Workbench <https://emaworkbench.readthedocs.io>`_ developed by Erik Pruyt and Jan Kwakkel at TU Delft. This package implements a variety of analysis methods that are unique to dynamic models, and could work very tightly with PySD.
 
 An web-based app called `Simlin <https://simlin.com/>`_ created by Bobby Powers exists as a standalone SD engine. Allows building models and exporting them to XMILE output.
 
